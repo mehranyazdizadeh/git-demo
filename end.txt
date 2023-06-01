@@ -1,1 +1,2 @@
 reviewing the course for clone, edit, add, commit and push
+Now I am modifing this text (a few minutes after I wrote the above line) to see how multiple line comment works
